@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Sistema.API\\Sistema.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Sistema.Test\\Sistema.Test.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BLADY\\Software\\TERCER SEMESTRE\\Herramientas de Programaci\u00F3n\\Sistema.Modelos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D808BE4-BBFD-4BDA-A242-4D3314F37E24}|Sistema.Test\\Sistema.Test.csproj|c:\\users\\blady\\software\\tercer semestre\\herramientas de programaci\u00F3n\\sistema.modelos\\sistema.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D808BE4-BBFD-4BDA-A242-4D3314F37E24}|Sistema.Test\\Sistema.Test.csproj|solutionrelative:sistema.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BLADY\\Software\\TERCER SEMESTRE\\Herramientas de Programaci\u00F3n\\Sistema.Modelos\\Sistema.Test\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema.Test\\Program.cs",
+              "ToolTip": "C:\\Users\\BLADY\\Software\\TERCER SEMESTRE\\Herramientas de Programaci\u00F3n\\Sistema.Modelos\\Sistema.Test\\Program.cs",
+              "RelativeToolTip": "Sistema.Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:43:41.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
